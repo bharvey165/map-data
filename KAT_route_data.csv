@@ -1,4 +1,4 @@
-"Month","Name","Route","Ridership","Miles","Hours","Passenger/hr"
+"Month","Name","Route","Ridership","Miles","Hours","Passenger-hr"
 "March","Sequoyah Hills",10,0,0,0,0
 "March","Kingston Pike",11,20682,25437,2131,9.71
 March,Western Ave,12,13856,16305,1231,11.26
